@@ -1,5 +1,7 @@
 To view this project:
-travel-list-reactjs.netlify.app
+https://travel-list-reactjs.netlify.app/
+
+
 ![image](https://github.com/Zotq/travel-list-react/assets/88341255/37b832e4-0d43-4964-be2d-1c996b312f41)
 
 
